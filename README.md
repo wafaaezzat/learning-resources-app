@@ -1,3 +1,8 @@
+you can create,store and delete your learning resources links  with title and description 
+
+
+
+
 # the-learning-resources-app
 
 ## Project setup
